@@ -32,6 +32,8 @@ When you run `print_numbers.sh`, you should see the following output in the term
 1 2 3 4 5 ... 50
 
 
+
+
 ## Project Setup
 1. **Repository Creation**: A public GitHub repository was created with the name `CIS2023-Linux-FinalProject`.
 2. **Script Development**: A bash script `print_numbers.sh` was developed to meet the project requirements.
