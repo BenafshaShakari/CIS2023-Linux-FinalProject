@@ -59,7 +59,7 @@ To fulfill the project requirements, the following elements are included:
 - **README.md**: This documentation file.
 - **Repository Link**: [CIS2023-Linux-FinalProject](https://github.com/BenafshaShakari/CIS2023-Linux-FinalProject).
   
-- **Screenshots**: Screenshots of terminal commands, script output, and `README.md`.
+
 
 
 
