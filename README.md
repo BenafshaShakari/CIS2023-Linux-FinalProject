@@ -1,35 +1,43 @@
-# CIS2023 Linux Final Project
+# Project Description:
 
-## Description
-This repository contains the final project for CIS 2023 – Linux. The project includes a bash script that counts from 1 to 50 and prints the numbers to the terminal. Additionally, the repository is maintained using the Linux command line and includes all necessary documentation.
+## CIS2023 Linux Final Project
+Welcome to the CIS2023 Linux Final Project repository! This project demonstrates the fundamental skills acquired in the CIS 2023 course, focusing on Linux command-line operations, bash scripting, and version control using Git.
 
-## Contents
+## Project Overview
+The primary objective of this project is to create a bash script that prints numbers from 1 to 50. The script is designed to be efficient, demonstrating your understanding of basic bash scripting commands. Additionally, the project includes documentation and maintenance of the script using Git and GitHub.
+
+## Repository Contents
 - `print_numbers.sh`: A bash script that prints numbers from 1 to 50.
-- `output.txt`: The captured output of the script.
-- `README.md`: This documentation file.
+- `output.txt`: The captured output of the script execution for documentation purposes.
+- `README.md`: This file provides an overview, setup instructions, and detailed documentation of the project.
 
 ## How to Run the Script
 1. **Clone the Repository**:
-    ```bash
+    
     git clone git@github.com:BenafshaShakari/CIS2023-Linux-FinalProject.git
     cd CIS2023-Linux-FinalProject
-    ```
+    
 
 2. **Make the Script Executable**:
-    ```bash
+    
     chmod +x print_numbers.sh
-    ```
+    
 
 3. **Run the Script**:
-    ```bash
+    
     ./print_numbers.sh
-    ```
+   
 
 ## Expected Output
 When you run `print_numbers.sh`, you should see the following output in the terminal:
 
-# OUTPUT
-1 2 3 4 5 ... 50
+1
+2
+3
+4
+5
+...
+50
 
 
 
@@ -50,13 +58,9 @@ To fulfill the project requirements, the following elements are included:
 - **Bash Script**: The `print_numbers.sh` file attached as a text file.
 - **README.md**: This documentation file.
 - **Repository Link**: [CIS2023-Linux-FinalProject](https://github.com/BenafshaShakari/CIS2023-Linux-FinalProject).
+  
 - **Screenshots**: Screenshots of terminal commands, script output, and `README.md`.
 
-## Notes
-- Ensure you have the necessary permissions to execute the script.
-- The repository is public and accessible for grading and verification purposes.
 
-## Contact
-For any questions or further information, please contact the repository owner at `benafsha.shakari@gmail.com`.
 
 
